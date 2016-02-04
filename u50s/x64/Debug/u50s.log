@@ -1,8 +1,0 @@
-﻿  unit_test.cpp
-c:\vs2015\u50s\u50s\synchronization\mutex.h(49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-c:\vs2015\u50s\u50s\synchronization\recursive_mutex.h(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  c:\vs2015\u50s\u50s\synchronization\recursive_mutex.h(75): note: see reference to class template instantiation 'u50s::synchronization::recursive_mutex<MUTEX>' being compiled
-c:\vs2015\u50s\u50s\synchronization\recursive_mutex.h(61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-c:\vs2015\u50s\u50s\synchronization\spin_mutex.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  u50s.vcxproj -> C:\VS2015\u50s\x64\Debug\u50s.exe
-  u50s.vcxproj -> C:\VS2015\u50s\x64\Debug\u50s.pdb (Partial PDB)
