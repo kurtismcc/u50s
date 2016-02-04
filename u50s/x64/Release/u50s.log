@@ -1,0 +1,16 @@
+﻿  unit_test.cpp
+C:\VS2015\u50s\u50s/synchronization/mutex.h(49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\VS2015\u50s\u50s/synchronization/recursive_mutex.h(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  C:\VS2015\u50s\u50s/synchronization/recursive_mutex.h(75): note: see reference to class template instantiation 'u50s::synchronization::recursive_mutex<MUTEX>' being compiled
+C:\VS2015\u50s\u50s/synchronization/recursive_mutex.h(61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\VS2015\u50s\u50s/synchronization/spin_mutex.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+unit_test.cpp(350): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  unit_test.cpp(350): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+  unit_test.cpp(356): note: see reference to class template instantiation 'cache_line_padding<std::atomic<unsigned int>>' being compiled
+  Generating code
+  1 of 322 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  u50s.vcxproj -> C:\VS2015\u50s\x64\Release\u50s.exe
+  u50s.vcxproj -> C:\VS2015\u50s\x64\Release\u50s.pdb (Full PDB)
